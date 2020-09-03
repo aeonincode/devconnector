@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+// use Moment to formate date and time
 import Moment from "react-moment";
 import moment from "moment";
 
